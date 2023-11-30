@@ -1,5 +1,5 @@
 {
-  "question": {
+  "question": [{
     "userId":1,
     "userAvatar": "user_avatar.png",
     "username": "JohnDoe123",
@@ -28,12 +28,12 @@
         "postedDate": "2023-06-01"
       }
     ]
-  },
-  "users":{
+  }],
+  "users":[{
     "userName":"Avish",
     "avatar": "https://t4.ftcdn.net/jpg/01/13/99/57/360_F_113995750_dAEGvjqxnsYD6asKjeDWJoVoSqjFvdGO.jpg",
     "email":"avish@gmail.com",
     "password":"avish"
-  }
+  }]
   
 }
